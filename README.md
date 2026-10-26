@@ -174,3 +174,10 @@ The datasets used contained:
 ## Project Outcome
 
 This project demonstrates foundational data analysis skills expected of a junior Data Technician, including data preparation, formula development, reporting, visualisation, and business-focused analysis using Microsoft Excel.
+
+<img width="698" height="491" alt="Screenshot 2026-09-15 100034" src="https://github.com/user-attachments/assets/d899b027-7875-4bed-9e32-8d44896b0aa3" />
+
+<img width="679" height="385" alt="Screenshot 2026-09-16 122557" src="https://github.com/user-attachments/assets/9e68830c-e373-4ebd-88d4-0aefc0db250d" />
+
+<img width="668" height="236" alt="Screenshot 2026-09-16 154941" src="https://github.com/user-attachments/assets/70b65eb3-a1c8-4f82-92c9-aa9a2ee84df5" />
+
